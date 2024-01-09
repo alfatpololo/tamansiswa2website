@@ -1,7 +1,7 @@
 <?php
 
 //create connection
-$koneksi = mysqli_connect("localhost", "rootie", "", "db_sekolah");
+$koneksi = mysqli_connect("localhost", "root", "", "db_sekolah");
 
 //connection check
 //if (mysqli_connect_errno()) {
