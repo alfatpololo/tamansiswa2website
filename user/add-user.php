@@ -60,7 +60,7 @@ require_once "../template/sidebar.php";
                         <div class="col-4 text-center px-5 mt-4">
                             <img src="../asset/image/default.png" alt="gambar user" width="40%" class="mb-3">
                             <input type="file" name="image" class="form-control form-control-sm">
-                            <small class="text-secondary">.jpg.jpeg.png | Max 1MB</small>
+                            <small class="text-secondary">.jpg.jpeg.png only | Max 1MB</small>
                         </div>
                     </div>
                 </div>
